@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B0D11" />
+  <circle cx="256" cy="256" r="180" stroke="#F59E0B" stroke-width="16" opacity="0.3" />
+  <circle cx="256" cy="256" r="130" stroke="url(#amberGrad)" stroke-width="28" />
+  <circle cx="256" cy="256" r="65" fill="#F59E0B" />
+  <circle cx="210" cy="210" r="22" fill="#FFFFFF" opacity="0.9" />
+  <path d="M190 126L230 156M322 126L282 156M386 210L356 240M386 302L356 272M322 386L282 356M190 386L230 356M126 302L156 272M126 210L156 240" stroke="#F59E0B" stroke-width="10" stroke-linecap="round" opacity="0.6" />
+  <defs>
+    <linearGradient id="amberGrad" x1="126" y1="126" x2="386" y2="386" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24" />
+      <stop offset="1" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+</svg>
