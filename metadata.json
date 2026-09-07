@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Edit Pro",
+  "description": "Professional offline photo and passport editor with precision adjustments, passport presets, exact KB compression, and geometric balance styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
